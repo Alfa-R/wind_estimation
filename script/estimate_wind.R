@@ -47,5 +47,5 @@ write_yaml(
     drift=fit$Theta,
     diffusion=chol(fit$Sigma)
     ),
-  '../outputs/wind_MVOU_process.yml'
+  '../data/outputs/wind_MVOU_process.yml'
   )
