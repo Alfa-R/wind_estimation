@@ -48,3 +48,8 @@ po/*~
 # RStudio Connect folder
 rsconnect/
 .DS_Store
+/.idea/.gitignore
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
+/.idea/wind_estimation.iml
